@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
+ - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
 
 Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
 

@@ -2,87 +2,67 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+A Second Year computer Science Student Experienced with App and Web development Well-versed in numerous programming languages including Python, Java,JavaScript/TypeScript and HTML. Strong background Programing, Leadership and Teamwork. Built many projects working with react in web development and java and python in app development. 
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Screener** @ [Trillium Health Partners](https://www.thp.ca/Pages/Home.aspx) _(Feb 2022 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
-
-&nbsp;
-
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
-
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+- Using EPIC software to maintain visitation and patient lookUp
+- Performing COVID 19 Screening duties for Trillium visitors, patients and staff
+- Providing directions and transporting patients to and from various locations 
+- Assisting patients in and out of wheelchairs, pushing wheelchairs as required
+- Maintaining inventory of supplies, such as masks to optimize work flow during peak hours
+- Promoted an open and timely communication with departments to verify visitor information
+- Acted as a liaison between health care staff, visitors and patients to optimize care delivery
+- Reduced risks of patient infection and cross contamination by maintaining a high level of 
+sanitization, following hand hygiene and cleaning equipment
+- _**Technologies used:**_ EPIC
 
 &nbsp;
-
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
+`2021-2025` [York University](https://www.yorku.ca/)
+- **Extension program** in Computer Science
+- Courses: Computer Organization, Discrete Mathematics, Computer Programming, 
+Object-Oriented Programming, Probability, Digital Logic Design
+- GPA: 3.5/4.0
+
+
+`2017-2021` [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci)
+- **Specialist High Skills Major** in IT
 - GPA: 4.0/4.0
-
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
 
 ## Skills
 
 ### General Tech Stacks
-- Architecture Design
+- Mobile App Development
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
 ### Programming languages
-- C# .NET
 - Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
+- CSS
 - Java
-- VB.NET/VBA
+- HTML
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
+- First Aid Licence (Red Cross)
+- Radio Licence  (ISED Canada)
 
 ## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+**valedictorian** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
+Graduated valedictorian from my high school with a 4.0 GPA 
+**Thistlestick** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
+Presented to the outstanding male in the senior grades of the school on the basis of scholarship, leadership and character 
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**English**: Native
+**Bengali**: proficient
+**Urdu**: Native
+**Hindi**: Native
+**German**: intermediate

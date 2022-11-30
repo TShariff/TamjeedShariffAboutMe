@@ -1,2 +1,3 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- First Aid Licence (Red Cross)
+- Radio Licence  (ISED Canada)

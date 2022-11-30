@@ -1,3 +1,6 @@
 # 🏆 Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+**valedictorian** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
+Graduated valedictorian from my high school with a 4.0 GPA 
+&nbsp;
+**Thistlestick** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
+Presented to the outstanding male in the senior grades of the school on the basis of scholarship, leadership and character 

@@ -1,3 +1,6 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**: Native
+**Bengali**: proficient
+**Urdu**: Native
+**Hindi**: Native
+**German**: intermediate
