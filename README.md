@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/noworneverev/react-vscode-portfolio">
+  <a href="https://github.com/Shariff6-school/TamjeedShariff.tech">
     <img src="./src/static/favicon.png" alt="Logo" width="80" >
   </a>
 
@@ -23,14 +23,14 @@
   <p align="center">
     A vscode inspired portfolio project
     <br />
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shariff6-school/TamjeedShariff.tech#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://noworneverev.github.io/">View Demo</a>
+    <a href="http://tamjeedshariff.tech/">View Demo</a>
     ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Report Bug</a>
+    <a href="https://github.com/Shariff6-school/TamjeedShariff.tech/issues">Report Bug</a>
     ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Shariff6-school/TamjeedShariff.tech/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,9 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://noworneverev.github.io/)
-
-The project is inspired by [Visual Studio Code](https://github.com/microsoft/vscode) and [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io). The pages of the portfolio are powered by `markdown`, which make them easy to modify or add your own contents.
+[![Product Name Screen Shot][product-screenshot]](http://tamjeedshariff.tech/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,7 +85,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/noworneverev/react-vscode-portfolio.git
+   git clone https://github.com/Shariff6-school/TamjeedShariff.tech
    ```
 2. Install NPM packages
    ```sh
@@ -116,7 +114,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
       {
         index: 0,
         title: "Find me on Github",
-        href: "https://github.com/noworneverev",
+        href: "https://github.com/Shariff6-school",
         icon: <FaGithub />,
       },
     ];
@@ -158,9 +156,9 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
- - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
+ - [Personal Portfolio](http://tamjeedshariff.tech/) - t.tamjeed.shariff@gmail.com
 
-Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
+Project Link: [https://github.com/Shariff6-school/TamjeedShariff.tech](https://github.com/Shariff6-school/TamjeedShariff.tech)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -191,5 +189,4 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 [product-screenshot]: ./src/static/screenshot.gif
 [gh-pages-shield]: https://img.shields.io/github/deployments/noworneverev/noworneverev.github.io/github-pages
 [gh-pages-url]: https://github.com/noworneverev/noworneverev.github.io/deployments
-[website-shield]:https://img.shields.io/website?url=https%3A%2F%2Fnoworneverev.github.io%2F
-[website-url]: https://noworneverev.github.io/
+[website-url]: http://tamjeedshariff.tech/
