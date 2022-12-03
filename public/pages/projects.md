@@ -11,7 +11,7 @@
 - Python JSON, HTML, React (Chakra Framework), JavaScript, CSS, Google Maps API
 
 ## [ImHungryButBroke](http://imhungrybutbroke.tech/) 🔗
-- A HackTheValley 7 Project where the user can find cheap food options near their locatons.
+- A HackTheValley 7 Project where the user can find cheap food options near their locations.
 -  Python JSON, HTML, React (MUI Framework), JavaScript, CSS
 
 
