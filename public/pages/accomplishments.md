@@ -1,5 +1,5 @@
 # 🏆 Accomplishments
-**valedictorian** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
+**Valedictorian** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
 Graduated valedictorian from my high school with a 4.0 GPA 
 &nbsp;
 **Thistlestick** @ [Thistletown CI](https://schoolweb.tdsb.on.ca/thistletownci) _(June 2021)_
