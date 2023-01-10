@@ -10,7 +10,7 @@ export const links = [
   {
     index: 0,
     title: "Find me on Github",
-    href: "https://github.com/Shariff6-school",
+    href: "https://github.com/TShariff",
     icon: <FaGithub />,
   },
   {
