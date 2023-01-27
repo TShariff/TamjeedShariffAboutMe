@@ -12,6 +12,7 @@
 - CSS
 - Java
 - HTML
+- C
 
 ## Databases
 - JSON
