@@ -16,6 +16,7 @@
 
 ## Databases
 - JSON
+- SQL
 
 ## Cloud
 - Google
