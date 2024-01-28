@@ -1,8 +1,7 @@
 # 👨‍🎓 Education
 `2021-2025` [York University](https://www.yorku.ca/)
 - **Extension program** in Computer Science
-- Courses: Computer Organization, Discrete Mathematics, Computer Programming, 
-Object-Oriented Programming, Probability, Digital Logic Design, Fundamentals of Data Structures
+- Courses: Advanced Object Oriented Programming, Introduction to Database Systems, Software Tools, Fundamentals of Data Structures, Computer Organization, Discrete Mathematics, Design and Analysis of Algorithms
 - GPA: 3.5/4.0
 
 
