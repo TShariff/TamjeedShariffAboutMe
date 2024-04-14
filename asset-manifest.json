@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/TamjeedShariff/static/js/main.668ee96a.js",
+    "main.js": "/TamjeedShariff/static/js/main.1cdde673.js",
     "static/js/787.df5e1d3a.chunk.js": "/TamjeedShariff/static/js/787.df5e1d3a.chunk.js",
     "static/media/favicon.png": "/TamjeedShariff/static/media/favicon.bc32dc5114394eec3f51.png",
     "index.html": "/TamjeedShariff/index.html",
-    "main.668ee96a.js.map": "/TamjeedShariff/static/js/main.668ee96a.js.map",
+    "main.1cdde673.js.map": "/TamjeedShariff/static/js/main.1cdde673.js.map",
     "787.df5e1d3a.chunk.js.map": "/TamjeedShariff/static/js/787.df5e1d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.668ee96a.js"
+    "static/js/main.1cdde673.js"
   ]
 }
