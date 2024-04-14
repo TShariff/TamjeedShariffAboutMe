@@ -4,6 +4,12 @@
 
 I am a computer science student with experience in app and web development. I have proficiency in multiple programming languages including Python, Java, JavaScript/TypeScript, HTML, CSS and C. My strong background in programming, leadership, and teamwork has been showcased through various projects, including the development of web applications using React and the creation of mobile apps utilising Java and Python. I am always eager to learn new technologies and apply them to real-world projects
 
+<video width="320" height="240" controls>
+  <source src="C:\Users\thehe\OneDrive\Desktop\aboutme-coop proejct\TamjeedShariffAboutMe\src\Why Me -Tamjeed Shariff.pptx.ppt - Google Slides - Google Chrome 2024-02-18 12-57-16 (2).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ## Experience
 
