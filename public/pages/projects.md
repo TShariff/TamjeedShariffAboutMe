@@ -1,17 +1,11 @@
 # 🧪 Projects
 
-## [portfolio website](http://TamjeedShariff.tech/) 🔗
-- This is my portfolio website
-- A vscode inspired portfolio project
-- Responsive Web Design 
-- React, TypeScript
+## Evil People Card Game | React, JavaScript, Java, Node.js, AWS, Microservices
+- Architected scalable distributed system capable of hosting 10+ concurrent players per server with microservices architecture and AWS cloud deployment, implementing fault-tolerant design for horizontal scaling across multiple server instances.
+- Developed full-stack solution using React frontend and Java backend microservices, following object-oriented design principles and clean code practices to create seamless real-time gaming experience.
+- Implemented resilient data management using AWS cloud services and distributed database architecture for efficient player state management, game configurations, and real-time synchronization across multiple game instances.
 
-## [TheStarvingStudent](https://the-starving-student.vercel.app) 🔗
-- A NewHack 2022 (Hackathon) project where the user can find food options near the University of Toronto St.George including food trucks and cafeteria options. A google maps API is used to show the user the locations of set restaurants.
-- Python JSON, HTML, React (Chakra Framework), JavaScript, CSS, Google Maps API
-
-## [ImHungryButBroke](http://imhungrybutbroke.tech/) 🔗
-- A simple website that allows users to search for food items within their budget. Created During Hack The Valley 7 (Hackathon)
--  Python JSON, HTML, React (MUI Framework), JavaScript, CSS
+## AI-Powered Old School Arcade | Java, Machine Learning, Cloud Architecture
+- Designed and developed mobile gaming platform combining Chess, Minesweeper, and Tetris with AI/ML technologies for adaptive difficulty and player behavior analysis, implementing scalable architecture for diverse gaming experiences.
 
 
