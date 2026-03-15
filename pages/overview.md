@@ -7,7 +7,10 @@ I am a computer science student with experience in app and web development. I ha
 
 ## About Me Video
 
-<video src="public\pages\WhyMe-TamjeedShariff.mp4" width="320" height="240" controls></video>
+<video width="320" height="240" controls>
+  <source src="./WhyMe-TamjeedShariff.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
