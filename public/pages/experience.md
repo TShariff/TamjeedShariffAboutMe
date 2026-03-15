@@ -1,5 +1,5 @@
 
-**Screener** @ [Trillium Health Partners](https://www.thp.ca/Pages/Home.aspx) _(Feb 2022 - Present)_
+
 
 &nbsp;
 # 👨‍💻 Experience
