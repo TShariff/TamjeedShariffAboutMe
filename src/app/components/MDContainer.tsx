@@ -139,7 +139,8 @@ export default function MDContainer({ path }: Props) {
   const [content, setContent] = useState("");
   const { pathname } = useLocation();
   useEffect(() => {
-    fetch(path)
+    const basePath = process.env.PUBLIC_URL || '';
+    fetch(`${basePath}/${path}`)
       .then((res) => res.text())
       .then((text) => setContent(text));
   }, [path]);
